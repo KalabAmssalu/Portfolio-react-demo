@@ -17,7 +17,7 @@ const experience = () => {
                 <div>
 
                 <h4>HTML</h4>
-                <small className='text-lights'>Experienced</small>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -25,7 +25,7 @@ const experience = () => {
                 <div>
 
                 <h4>CSS</h4>
-                <small className='text-lights'>Intermediate</small>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -33,7 +33,7 @@ const experience = () => {
                 <div>
 
                 <h4>JavaScript</h4>
-                <small className='text-lights'>Intermediate</small>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -41,23 +41,23 @@ const experience = () => {
                 <div>
 
                 <h4>Bootstrap</h4>
-                <small className='text-lights'>Experienced</small>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon' />
                 <div>
 
-                <h4>Tailwind</h4>
-                <small className='text-lights'>Beginner</small>
+                <h4>Tailwind CSS</h4>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon' />
                 <div>
 
-                <h4>React</h4>
-                <small className='text-lights'>Intermediate</small>
+                <h4>ReactJS</h4>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -65,7 +65,15 @@ const experience = () => {
                 <div>
 
                 <h4>SASS</h4>
-                <small className='text-lights'>Beginner</small>
+                <small className='text-lights'>Intermediate</small>
+                </div>
+              </article>
+              <article className='experience__details'>
+                <BsPatchCheckFill className='experience__details-icon' />
+                <div>
+
+                <h4>Material UI</h4>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -73,7 +81,7 @@ const experience = () => {
                 <div>
 
                 <h4>TypeScript</h4>
-                <small className='text-lights'>Beginner</small>
+                <small className='text-lights'>Intermediate</small>
                 </div>
               </article>
             </div>
@@ -86,7 +94,7 @@ const experience = () => {
                 <div>
 
                 <h4>PHP</h4>
-                <small className='text-lights'>Experienced</small>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -94,6 +102,14 @@ const experience = () => {
                 <div>
 
                 <h4>Node JS</h4>
+                <small className='text-lights'>Expert</small>
+                </div>
+              </article>
+              <article className='experience__details'>
+                <BsPatchCheckFill className='experience__details-icon' />
+                <div>
+
+                <h4>Next JS</h4>
                 <small className='text-lights'>Intermediate</small>
                 </div>
               </article>
@@ -110,7 +126,7 @@ const experience = () => {
                 <div>
 
                 <h4>MySQL</h4>
-                <small className='text-lights'>Experienced</small>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -118,7 +134,7 @@ const experience = () => {
                 <div>
 
                 <h4>Django</h4>
-                <small className='text-lights'>Beginner</small>
+                <small className='text-lights'>Expert</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -126,7 +142,7 @@ const experience = () => {
                 <div>
 
                 <h4>Python</h4>
-                <small className='text-lights'>Beginner</small>
+                <small className='text-lights'>Intermediate</small>
                 </div>
               </article>
               <article className='experience__details'>

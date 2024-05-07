@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import {FaFacebookF} from 'react-icons/fa'
+import {FaFacebookF, FaGithub} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
 
@@ -19,9 +19,10 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF /></a>
-        <a href="https://instagram.com"><FiInstagram /></a>
-        <a href="https://twitter.com"><IoLogoTwitter /></a>
+      <a href="https://facebook.com/kalab.amssalu/" target="_blank" rel='noreferrer'><FaFacebookF /></a>
+      <a href="https://github.com/KalabAmssalu" target="_blank" rel='noreferrer'><FaGithub /></a>
+        <a href="https://www.instagram.com/kalishdesandy"><FiInstagram /></a>
+        <a href="https://twitter.com/KalabAmssalu"><IoLogoTwitter /></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; Kalab Amssalu. All rights reserved. </small>

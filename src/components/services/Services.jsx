@@ -15,24 +15,17 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>Gofer Ecommerce.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>Tiver Driving School.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>Rhino Plc.</p>
               </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
+              
              
             </ul>
           </article>
@@ -43,32 +36,26 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>WebBuilder Software as a service.</p>
+                <p>onProgress...</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>Tiver Driving School Information Management System.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>Gofer Ecommerce website.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>Rhino Plc Offical website modification.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>University of Gondar Student Admission system.</p>
               </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
+            
              
               
             </ul>
@@ -80,24 +67,9 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>Todo Application.</p>
               </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
+             
             </ul>
           </article>
           <article className="service">
@@ -105,26 +77,11 @@ const Services = () => {
               <h3>Desktop Application</h3>
             </div>
             <ul className='service__list'>
-              <li>
+            <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <p>University of Gondar Bus scheduling system.</p>
               </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' /> 
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-              </li>
+              
             </ul>
           </article>
         </div>

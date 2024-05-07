@@ -21,20 +21,26 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>4+ Years Working</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>2+ Worldwide</small>
+              <small>2+</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>4+ Completed</small>
+              <small>5+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas deserunt quo sint fuga reiciendis nesciunt. Fuga eum, nihil repudiandae explicabo porro non facere aliquam quae unde, provident nulla iusto eaque harum omnis quis pariatur deserunt vitae reprehenderit cupiditate maiores? Quasi, accusantium distinctio in nisi error fuga nemo magnam. Explicabo, deleniti quas! Explicabo dolores hic ipsum odio, at distinctio qui cumque officiis asperiores possimus, sequi delectus? Vero accusantium itaque repellat vel, blanditiis porro, quaerat a quis distinctio nobis nostrum tempore esse eligendi, fugiat voluptatibus hic quisquam eius provident deserunt repudiandae quia officia expedita odio! Non nulla, eaque sint sapiente harum beatae. </p>
+          <p>I'm a dedicated and adaptable individual with a passion for problem-solving and continuous learning.
+My background in designing, project management and full-stack web development has equipped me
+with strong technical and leadership skills. I enjoy a challenge, and I'm constantly looking for novel
+solutions to difficult issues. As a team player, I encourage cooperation to accomplish shared objectives.
+I'm a lifelong learner who is always pursuing new interests and remaining receptive to different
+viewpoints. With a commitment to excellence and a growth mindset, I bring a valuable blend of technical
+proficiency, leadership, and a curious spirit to any endeavor. </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

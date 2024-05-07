@@ -1,11 +1,11 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../asset/portfolio1.jpg'
-import IMG2 from '../../asset/portfolio2.jpg'
+import IMG2 from '../../asset/portfolio2.png'
 import IMG3 from '../../asset/portfolio3.jpg'
 import IMG4 from '../../asset/portfolio4.jpg'
 import IMG5 from '../../asset/portfolio5.png'
-import IMG6 from '../../asset/portfolio6.jpg'
+
 
 //! DO NOT USE THE IMAGES IN PRODUCTION
 
@@ -13,45 +13,39 @@ const data=[
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visulization',
-    github: 'https://github.com',
+    title: 'Tiver Driving School IMS Visulization',
+    github: 'https://github.com/KalabAmssalu',
     demo: 'https://dribbble.com/shots/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto Currency Dashboard & Financial Visulization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/'
+    title: 'Gofer Ecommerce website Visulization',
+    github: 'https://github.com/KalabAmssalu/Gofer-Jordan-Shoe-Ecommerce-website-',
+    demo: 'youtu.be/cHIQSbSF7AA'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto Currency Dashboard & Financial Visulization',
-    github: 'https://github.com',
+    title: 'React native Todo Application Visulization',
+    github: 'https://github.com/KalabAmssalu/Todo-Mobile-Application',
     demo: 'https://dribbble.com/shots/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Crypto Currency Dashboard & Financial Visulization',
-    github: 'https://github.com',
+    title: 'UoG Bus Scheduling Dashboard Visulization',
+    github: 'https://github.com/KalabAmssalu/UOG-Bus-scheduling-',
     demo: 'https://dribbble.com/shots/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Crypto Currency Dashboard & Financial Visulization',
-    github: 'https://github.com',
+    title: 'UoG Student Admission Visulization',
+    github: 'https://github.com/KalabAmssalu/UOG_Admission_port',
     demo: 'https://dribbble.com/shots/'
   },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Crypto Currency Dashboard & Financial Visulization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/'
-  }
+ 
 ]
 
 
