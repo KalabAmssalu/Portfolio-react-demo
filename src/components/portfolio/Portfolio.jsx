@@ -3,8 +3,8 @@ import './portfolio.css'
 import IMG1 from '../../asset/portfolio1.jpg'
 import IMG2 from '../../asset/portfolio2.png'
 import IMG3 from '../../asset/portfolio3.jpg'
-import IMG4 from '../../asset/portfolio4.jpg'
-import IMG5 from '../../asset/portfolio5.png'
+import IMG4 from '../../asset/portfolio4.png'
+import IMG5 from '../../asset/portfolio5.jpg'
 
 
 //! DO NOT USE THE IMAGES IN PRODUCTION
