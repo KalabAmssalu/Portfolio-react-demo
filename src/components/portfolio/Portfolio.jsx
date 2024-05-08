@@ -22,7 +22,7 @@ const data=[
     image: IMG2,
     title: 'Gofer Ecommerce website Visulization',
     github: 'https://github.com/KalabAmssalu/Gofer-Jordan-Shoe-Ecommerce-website-',
-    demo: 'youtu.be/cHIQSbSF7AA'
+    demo: 'https://www.youtube.com/watch?v=cHIQSbSF7AA&feature=youtu.be'
   },
   {
     id: 3,
