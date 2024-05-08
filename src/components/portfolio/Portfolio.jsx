@@ -15,7 +15,7 @@ const data=[
     image: IMG1,
     title: 'Tiver Driving School IMS Visulization',
     github: 'https://github.com/KalabAmssalu',
-    demo: 'https://dribbble.com/shots/'
+    demo: 'https://drive.google.com/file/d/1jSfMlcobk4mz-jH-SSsjrEDeTtFDCgO0/view?usp=sharing'
   },
   {
     id: 2,
