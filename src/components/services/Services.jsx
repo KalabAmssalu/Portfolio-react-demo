@@ -23,7 +23,7 @@ const Services = () => {
               </li>
               <li>
                 <BiCheck className='service__list-icon' /> 
-                <p>Rhino Plc.</p>
+                <p>Rhino Plc wordpress website.</p>
               </li>
               
              
@@ -37,7 +37,7 @@ const Services = () => {
               <li>
                 <BiCheck className='service__list-icon' /> 
                 <p>WebBuilder Software as a service.</p>
-                <p>onProgress...</p>
+                
               </li>
               <li>
                 <BiCheck className='service__list-icon' /> 
@@ -55,7 +55,10 @@ const Services = () => {
                 <BiCheck className='service__list-icon' /> 
                 <p>University of Gondar Student Admission system.</p>
               </li>
-            
+              <li>
+                <BiCheck className='service__list-icon' /> 
+                <p>Rhino Plc wordpress website.</p>
+              </li>
              
               
             </ul>
