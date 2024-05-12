@@ -1,7 +1,7 @@
 import React from 'react'
 import './experience.css'
 import {BsPatchCheckFill} from 'react-icons/bs'
-import { FaCheckDouble } from "react-icons/fa";
+
 
 const experience = () => {
   return (
